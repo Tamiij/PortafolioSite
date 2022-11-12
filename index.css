@@ -1,0 +1,661 @@
+.mediaViewInfo {
+	--web-view-name: home;
+	--web-view-id: home;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: home;
+}
+
+@media only screen and (min-width:1024px)
+{
+	
+	
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+
+body {
+	
+	
+	background-color: #BD11C3;
+
+	
+}
+
+
+
+.elindividuo {
+   
+	left: 604px;
+	top: 597.39px;
+	position: absolute;
+	overflow: visible;
+	width: 726px;
+	height: 177.0701141357422px;
+	line-height: 34.80000305175781px;
+	margin-top: -2.9000015258789062px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	color: rgba(255,255,255,1);
+}
+	
+.Grupo_84 {
+	
+	position: absolute;
+	width: 337.93px;
+	height: 710.808px;
+	left: 796.622px;
+	top: 150.5px;
+	overflow: visible;
+}
+
+
+
+.About_Me {
+	left: 1672.5px;
+	top: 159.093px;
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	line-height: 37.20000076293945px;
+	margin-top: -3.1000003814697266px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	color: azure;
+
+}
+
+.About_Me a:hover{
+	color: aqua;
+	transition: all .3s;
+	
+}
+.Behance {
+	left: 1682.5px;
+	top: 217.683px;
+	position: absolute;
+	overflow: visible;
+	width: 138px;
+	white-space: nowrap;
+	line-height: 37.20000076293945px;
+	margin-top: -3.1000003814697266px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	
+}
+	
+.Behance a:hover{
+	color: aqua;
+	transition: all .3s;
+	
+}
+
+.Linkedln {
+	
+	left: 1695.5px;
+	top: 274.91px;
+	position: absolute;
+	overflow: visible;
+	width: 125px;
+	white-space: nowrap;
+	line-height: 37.20000076293945px;
+	margin-top: -3.1000003814697266px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	
+}
+
+.Linkedln a:hover{
+	color: aqua;
+	transition: all .3s;
+	
+}
+
+.Contacto {
+	left: 1675.5px;
+	top: 327.91px;
+	position: absolute;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	line-height: 37.20000076293945px;
+	margin-top: -3.1000003814697266px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	
+	
+	}
+.Contacto a:hover{
+	color: aqua;
+	transition: all .3s;
+	
+}
+.Grupo_85 {
+	
+	position: absolute;
+	width: 335.845px;
+	height: 87.273px;
+	left: 69.108px;
+	top: 2570.504px;
+	overflow: visible;
+}
+
+
+.Copy {
+	left: 137.568px;
+	top: 5237.957px;
+	position: absolute;
+	overflow: visible;
+	width: 655px;
+	white-space: nowrap;
+	line-height: 28px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+}
+.Grupo_86 {
+	position: absolute;
+	width: 670.527px;
+	height: 279.467px;
+	left: 618.216px;
+	top: 319.467px;
+	overflow: visible;
+}
+
+.Grupo_88 {
+	position: absolute;
+	width: 847.332px;
+	height: 510.566px;
+	left: 976.382px;
+	top: 3955.434px;
+	overflow: visible;
+}
+	
+	.Grupo_88:hover{
+	background: #a945c7;
+    box-shadow: 0 0 20px #75EFFF, 0 0 40px #a945c7, 0 0 80px #75EFFF;
+    transition-delay: 0.2s;
+ }
+		
+	
+#Grupo_87 {
+	position: absolute;
+	width: 847.332px;
+	height: 510.566px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Grupo_90 {
+	position: absolute;
+	width: 848.348px;
+	height: 1389.566px;
+	left: 105.043px;
+	top: 1852.434px;
+	overflow: visible;
+}
+.Grupo_90:hover{
+	background: #a945c7;
+    box-shadow: 0 0 20px #75EFFF, 0 0 40px #a945c7, 0 0 80px #75EFFF;
+    transition-delay: 0.2s;
+ }
+#Grupo_89 {
+	position: absolute;
+	width: 848.348px;
+	height: 1389.566px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Grupo_92 {
+	position: absolute;
+	width: 847.332px;
+	height: 685.79px;
+	left: 974.382px;
+	top: 2554.791px;
+	overflow: visible;
+}
+
+.Grupo_92:hover{
+	background: #a945c7;
+    box-shadow: 0 0 20px #75EFFF, 0 0 40px #a945c7, 0 0 80px #75EFFF;
+    transition-delay: 0.2s;
+ }
+#Grupo_91 {
+	position: absolute;
+	width: 847.332px;
+	height: 685.79px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Grupo_94 {
+	position: absolute;
+	width: 847.332px;
+	height: 685.79px;
+	left: 974.755px;
+	top: 1854.982px;
+	overflow: visible;
+}
+.Grupo_94:hover{
+	background: #a945c7;
+    box-shadow: 0 0 20px #75EFFF, 0 0 40px #a945c7, 0 0 80px #75EFFF;
+    transition-delay: 0.2s;
+ }
+#Grupo_93 {
+	position: absolute;
+	width: 847.332px;
+	height: 685.79px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Grupo_96 {
+	position: absolute;
+	width: 847.332px;
+	height: 1067.995px;
+	left: 106.382px;
+	top: 3255.005px;
+	overflow: visible;
+}
+.Grupo_96:hover{
+	background: #a945c7;
+    box-shadow: 0 0 20px #75EFFF, 0 0 40px #a945c7, 0 0 80px #75EFFF;
+    transition-delay: 0.2s;
+ }
+#Grupo_95 {
+	position: absolute;
+	width: 847.332px;
+	height: 1067.995px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectngulo_27 {
+	position: absolute;
+	width: 144.049px;
+	height: 205.07px;
+	left: 105.736px;
+	top: 102.185px;
+	overflow: visible;
+}
+.Rectngulo_28 {
+	position: absolute;
+	width: 76px;
+	height: 77px;
+	left: 1311px;
+	top: 5160px;
+	overflow: visible;
+}
+.Rectngulo_29 {
+	position: absolute;
+	width: 103px;
+	height: 65px;
+	left: 1475px;
+	top: 5166px;
+	overflow: visible;
+}
+.Rectngulo_30 {
+	position: absolute;
+	width: 74px;
+	height: 70px;
+	left: 1638px;
+	top: 5160px;
+	overflow: visible;
+}
+.Rectngulo_31 {
+	position: absolute;
+	width: 76px;
+	height: 159px;
+	left: 922px;
+	top: 5115px;
+	overflow: visible;
+}
+.Rectngulo_32 {
+	position: absolute;
+	width: 65px;
+	height: 119px;
+	left: 1752px;
+	top: 843px;
+	overflow: visible;
+}
+
+.Rectngulo_33 {
+	position: absolute;
+	width: 849.605px;
+	height: 686.489px;
+	left: 104.197px;
+	top: 1146.755px;
+	overflow: visible;
+}
+.Rectngulo_33:hover{
+	background: #a945c7;
+    box-shadow: 0 0 20px #75EFFF, 0 0 40px #a945c7, 0 0 80px #75EFFF;
+    transition-delay: 0.2s;
+ }
+.Rectngulo_40 {
+	display:none;
+	padding:20px;
+	cursor:pointer;
+	position: fixed;
+	bottom:20px;
+	left:90px;
+}
+
+.Rectngulo_35 {
+	position: absolute;
+	width: 847px;
+	height: 686px;
+	left: 973px;
+	top: 1147px;
+	overflow: visible;
+}
+.Rectngulo_35:hover{
+	background: #a945c7;
+    box-shadow: 0 0 20px #75EFFF, 0 0 40px #a945c7, 0 0 80px #75EFFF;
+    transition-delay: 0.2s;
+ }
+.Rectngulo_36 {
+	position: absolute;
+	width: 848.489px;
+	height: 686.396px;
+	left: 972.755px;
+	top: 3257.302px;
+	overflow: visible;
+}
+.Rectngulo_36:hover{
+	background: #a945c7;
+    box-shadow: 0 0 20px #75EFFF, 0 0 40px #a945c7, 0 0 80px #75EFFF;
+    transition-delay: 0.2s;
+ }
+
+}
+
+@media only screen and (max-width:767px){
+	
+	
+body {
+	
+	
+	background-color: #BD11C3;
+
+	
+}
+	
+.elindividuo {
+    
+	max-height: 100%;
+	height: auto;
+	display: block;
+	padding-top:200px;
+	margin: 20px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+	
+	.Grupo_86 {
+	
+	top:50px;
+	padding:20px;
+	margin: 20px;
+	max-width: 100%;
+	height: auto;
+	position: absolute;
+	display: block;
+	
+	
+}
+	
+	
+
+	.Grupo_84 {
+	
+	top:30px;
+	padding-left:90px;
+	margin: 20px;
+	max-width: 35%;
+	height: auto;
+	position: absolute;
+	display: block;
+	
+	
+}
+	
+
+	
+	.Rectngulo_32 {
+	top:480px;
+	padding-left:320px;
+	margin: 20px;
+	max-width: 10%;
+	height: auto;
+	position: absolute;
+	display: block;
+}
+
+	.Rectngulo_31 {
+		
+	top:3440px;
+	left:35px;
+	max-width: 9%;
+	height: auto;
+	position: absolute;
+	display: block;
+}
+	
+	
+	.Copy {
+	position: absolute;
+	max-height: 100%;
+	height: auto;
+	display: block;
+	left: 40px;
+	top:3520px;
+	margin: 20px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+	padding-bottom: 100px;
+}
+
+	.Rectngulo_28 {
+	top:3450px;
+	left:170px;
+	bottom: 100px;
+	max-width: 10%;
+	height: auto;
+	position: absolute;
+	display: block;
+	}
+	
+	.Rectngulo_29 {
+	top:3438px;
+	left:220px;
+	bottom: 100px;
+	margin: 20px;
+	max-width: 12%;
+	height: auto;
+	position: absolute;
+	display: block;
+	}
+	
+	.Rectngulo_30 {
+	top:3450px;
+	left:310px;
+	max-width: 10%;
+	height: auto;
+	position: absolute;
+	display: block;
+	}
+	
+	.Rectngulo_27 {
+	top:30px;
+	padding-left:150px;
+	margin: 20px;
+	max-width: 15%;
+	height: auto;
+	position: absolute;
+	display: block;
+	}
+	
+	
+	.About_Me {
+	left: 20px;
+	top: 10px;
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	line-height: 37.20000076293945px;
+	margin-top: -3.1000003814697266px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: azure;
+
+}
+
+.About_Me a:hover{
+	color: aqua;
+	transition: all .3s;
+	
+}
+.Behance {
+	left: 113px;
+	top: 10px;
+	position: absolute;
+	overflow: visible;
+	width: 138px;
+	white-space: nowrap;
+	line-height: 37.20000076293945px;
+	margin-top: -3.1000003814697266px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	
+}
+	
+.Behance a:hover{
+	color: aqua;
+	transition: all .3s;
+	
+}
+
+.Linkedln {
+	
+	left: 205px;
+	top: 10px;
+	position: absolute;
+	overflow: visible;
+	width: 125px;
+	white-space: nowrap;
+	line-height: 37.20000076293945px;
+	margin-top: -3.1000003814697266px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	
+}
+
+.Linkedln a:hover{
+	color: aqua;
+	transition: all .3s;
+	
+}
+
+.Contacto {
+	left: 290px;
+	top: 10px;
+	position: absolute;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	line-height: 37.20000076293945px;
+	margin-top: -3.1000003814697266px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	
+	
+	}
+.Contacto a:hover{
+	color: aqua;
+	transition: all .3s;
+	
+}
+	
+	
+	.Rectngulo_40 {
+	max-width: 10%;
+	display:none;
+	padding:20px;
+	cursor:pointer;
+	position: fixed;
+	bottom:20px;
+	left:10px;
+}
+	
+	.Rectngulo_27{
+		display: none;
+	}
+	
+	.Grupo_85{
+		display: none;
+	}
+	
+	.Rectngulo_32{
+		display: none;
+	}
+	
+	
+	
+	img {
+	padding-top: 20px;
+    max-width: 100%;
+    height: auto;
+   
+}
+	
+
+
+}
+	
+
