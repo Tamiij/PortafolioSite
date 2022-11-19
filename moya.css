@@ -1,0 +1,568 @@
+.mediaViewInfo {
+	--web-view-name: alejo;
+	--web-view-id: alejo;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: alejo;
+}
+
+@media only screen and (min-width:1024px)
+{
+	
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+
+
+html, body {
+    min-height: 100%;
+	
+}
+
+	body {
+		background-color: rgb(188, 223, 216);
+	}
+
+
+#Capa_1 {
+	position: absolute;
+	width: 1616.892px;
+	height: 238.957px;
+	left: 129.108px;
+	top: 5114px;
+	overflow: visible;
+}
+
+.Copy {
+	left: 8.46px;
+	top: 123.957px;
+	position: absolute;
+	overflow: visible;
+	width: 655px;
+	white-space: nowrap;
+	line-height: 28px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(0,0,0,1);
+}
+.Rectngulo_28 {
+	position: absolute;
+	width: 78px;
+	height: 77px;
+	left: 1212.892px;
+	top: 41px;
+	overflow: visible;
+}
+.Rectngulo_29 {
+	position: absolute;
+	width: 104px;
+	height: 66px;
+	left: 1376.892px;
+	top: 46px;
+	overflow: visible;
+}
+.Rectngulo_30 {
+	position: absolute;
+	width: 75px;
+	height: 71px;
+	left: 1541.892px;
+	top: 39px;
+	overflow: visible;
+}
+.Rectngulo_31 {
+	position: absolute;
+	width: 75px;
+	height: 159px;
+	left: 826.892px;
+	top: 0px;
+	overflow: visible;
+}
+.About_Me {
+	left: 1672.5px;
+	top: 159.093px;
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	line-height: 37.20000076293945px;
+	margin-top: -3.1000003814697266px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	color: black;
+
+}
+
+.About_Me a:hover{
+	color: #7EBCAD;
+	transition: all .3s;
+	
+}
+.Behance {
+	left: 1682.5px;
+	top: 217.683px;
+	position: absolute;
+	overflow: visible;
+	width: 138px;
+	white-space: nowrap;
+	line-height: 37.20000076293945px;
+	margin-top: -3.1000003814697266px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	
+}
+	
+.Behance a:hover{
+	color: #7EBCAD;
+	transition: all .3s;
+	
+}
+
+.Linkedln {
+	
+	left: 1695.5px;
+	top: 274.91px;
+	position: absolute;
+	overflow: visible;
+	width: 125px;
+	white-space: nowrap;
+	line-height: 37.20000076293945px;
+	margin-top: -3.1000003814697266px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	
+}
+
+.Linkedln a:hover{
+	color: #7EBCAD;
+	transition: all .3s;
+	
+}
+
+.Contacto {
+	left: 1675.5px;
+	top: 104.91px;
+	position: absolute;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	line-height: 37.20000076293945px;
+	margin-top: -3.1000003814697266px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	
+	
+	}
+.Contacto a:hover{
+	color: #7EBCAD;
+	transition: all .3s;
+	
+}
+.Alejandro{
+	left: 129px;
+	top: 586.689px;
+	position: absolute;
+	overflow: visible;
+	width: 776px;
+	height: 165.0701141357422px;
+	line-height: 28.80000114440918px;
+	margin-top: -2.40000057220459px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+}
+#Grupo_82 {
+	position: absolute;
+	width: 759.308px;
+	height: 126.885px;
+	left: 118.255px;
+	top: 415.315px;
+	overflow: visible;
+}
+#Grupo_81 {
+	position: absolute;
+	width: 759.308px;
+	height: 126.885px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+
+
+.BrandBook {
+	left: 114px;
+	top: 430.922px;
+	position: absolute;
+	overflow: visible;
+	width: 353.8px;
+	height: 46.10954284667969px;
+	line-height: 19.200000762939453px;
+	margin-top: -1.6000003814697266px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+
+.Rectngulo_7 {
+	position: absolute;
+	width: 511px;
+	height: 217px;
+	left: 1168px;
+	top: 490px;
+	overflow: visible;
+}
+.Rectngulo_8 {
+	position: absolute;
+	width: 1440px;
+	height:3714px;
+	left: 240px;
+	top: 1020px;
+	overflow: visible;
+}
+.Rectngulo_9 {
+	position: absolute;
+	width: 1657px;
+	height: 947px;
+	left: 70px;
+	top: 7000px;
+	overflow: visible;
+}
+
+#Rectngulo_12 {
+	position: absolute;
+	width: 142px;
+	height: 205.44px;
+	left: 103px;
+	top: 44px;
+	overflow: visible;
+	transition: all 0.30000001192092896s ease-out;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: home.html;
+	cursor: pointer;
+}
+
+#alejog{
+	left: -10px;
+	top: -4660.346px;
+	position: absolute;
+	overflow: visible;
+	line-height: 19.200000762939453px;
+	margin-top: -1.6000003814697266px;
+	
+}
+
+.flotante{
+	
+	display:none;
+	padding:20px;
+	cursor:pointer;
+	position: fixed;
+	bottom:20px;
+	left:90px;
+}
+	
+
+.laup{
+	
+	left: 150.46px;
+	top: 5140.957px;
+	position: absolute;
+	overflow: visible;
+	white-space: nowrap;
+	line-height: 28px;
+	margin-top: -3px;
+}
+
+}
+
+
+@media only screen and (max-width:767px){
+	
+	
+body {
+	
+	
+	background-color: rgb(188, 223, 216);
+
+	
+}
+	
+	
+	
+.Rectngulo_28 {
+	top:1750px;
+	left:170px;
+	bottom: 100px;
+	max-width: 10%;
+	height: auto;
+	position: absolute;
+	display: block;
+	}
+	
+	.Rectngulo_29 {
+	top:1738px;
+	left:220px;
+	bottom: 100px;
+	margin: 20px;
+	max-width: 12%;
+	height: auto;
+	position: absolute;
+	display: block;
+	}
+	
+	.Rectngulo_30 {
+	top:1750px;
+	left:310px;
+	max-width: 10%;
+	height: auto;
+	position: absolute;
+	display: block;
+	}
+	
+	.Rectngulo_31 {
+		
+	top:1740px;
+	left:35px;
+	max-width: 9%;
+	height: auto;
+	position: absolute;
+	display: block;
+}
+	.Copy {
+	position: absolute;
+	max-height: 100%;
+	height: auto;
+	display: block;
+	left: 40px;
+	top:1920px;
+	margin: 20px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: #000000;
+	padding-bottom: 100px;
+}	
+	
+		img {
+	padding-top: 100px;
+    max-width: 100%;
+    height: auto;
+   
+}
+	
+	
+	#alejog{
+		
+		max-width: 90%;
+		}
+	
+	#Grupo_80 {
+		
+	padding-left: 50px;	
+	padding-top: 0px;
+	
+	}	
+		
+	.Rectngulo_7{
+		display: none;
+	}
+	
+	.Rectngulo_8{
+	 padding-top: 200px;	
+	}
+	
+	.About_Me {
+	left: 20px;
+	top: 10px;
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	line-height: 37.20000076293945px;
+	margin-top: -3.1000003814697266px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: #000000;
+
+}
+
+.About_Me a:hover{
+	color: aqua;
+	transition: all .3s;
+	
+}
+.Behance {
+	left: 113px;
+	top: 10px;
+	position: absolute;
+	overflow: visible;
+	width: 138px;
+	white-space: nowrap;
+	line-height: 37.20000076293945px;
+	margin-top: -3.1000003814697266px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	
+}
+	
+.Behance a:hover{
+	color: aqua;
+	transition: all .3s;
+	
+}
+
+.Linkedln {
+	
+	left: 205px;
+	top: 10px;
+	position: absolute;
+	overflow: visible;
+	width: 125px;
+	white-space: nowrap;
+	line-height: 37.20000076293945px;
+	margin-top: -3.1000003814697266px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	
+}
+
+.Linkedln a:hover{
+	color: aqua;
+	transition: all .3s;
+	
+}
+
+.Contacto {
+	left: 290px;
+	top: 10px;
+	position: absolute;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	line-height: 37.20000076293945px;
+	margin-top: -3.1000003814697266px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	
+	
+	}
+.Contacto a:hover{
+	color: aqua;
+	transition: all .3s;
+	
+}
+		
+	.Alejandro {
+	max-height: 100%;
+	position: absolute;
+	height: auto;
+	display: block;
+	top:200px;
+	margin: 20px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: #000000;
+}	
+	
+	.BrandBook {
+		
+	max-height: 100%;
+	position: absolute;
+	height: auto;
+	display: block;
+	top:70px;
+	left: 50px;
+	margin: 20px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: #000000;
+}	
+	
+	.flotante {
+	max-width: 10%;
+	display:none;
+	padding:20px;
+	cursor:pointer;
+	position: fixed;
+	bottom:20px;
+	left:10px;
+}
+		
+	
+	#Rectngulo_12 {
+		display: none;
+	}
+	
+	.laup {
+		display: none;
+	}
+	
+	.Rectngulo_9 {
+		display: none;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	}
+	
+	
+	
+	
+	
+	
+	
+
