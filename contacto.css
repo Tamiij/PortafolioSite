@@ -1,0 +1,358 @@
+.mediaViewInfo {
+	--web-view-name: contacto;
+	--web-view-id: contacto;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: contacto;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#contacto {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	overflow: hidden;
+	margin: 0;
+	--web-view-name: contacto;
+	--web-view-id: contacto;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+
+body{
+	margin:0;
+}
+   .showcase{
+
+position: absolute;
+	
+
+width: 50%;
+height: 50%;
+	   align-content: center;
+
+top: 0;
+left: 0;
+
+
+
+
+}
+
+.video-container{
+
+    position: relative;
+    width: 1920px;
+    height: 1080px;
+	align-content: center;
+    
+    top: 0;
+    left: 0;
+    
+    
+
+}
+
+
+#El_individuo_comn_ve_las_cosas {
+   
+	left: 1054px;
+	top: 697.39px;
+	position: absolute;
+	overflow: visible;
+	width: 726px;
+	height: 177.0701141357422px;
+	line-height: 34.80000305175781px;
+	margin-top: -2.9000015258789062px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	color: #BD11C3;
+}
+
+
+
+.About_Me {
+	left: 1672.5px;
+	top: 159.093px;
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	line-height: 37.20000076293945px;
+	margin-top: -3.1000003814697266px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	color: #BD11C3;
+
+}
+
+.About_Me a:hover{
+	color: aqua;
+	transition: all .3s;
+	
+}
+.Behance {
+	left: 1682.5px;
+	top: 217.683px;
+	position: absolute;
+	overflow: visible;
+	width: 138px;
+	white-space: nowrap;
+	line-height: 37.20000076293945px;
+	margin-top: -3.1000003814697266px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	
+}
+	
+.Behance a:hover{
+	color: aqua;
+	transition: all .3s;
+	
+}
+
+.Linkedln {
+	
+	left: 1695.5px;
+	top: 274.91px;
+	position: absolute;
+	overflow: visible;
+	width: 125px;
+	white-space: nowrap;
+	line-height: 37.20000076293945px;
+	margin-top: -3.1000003814697266px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	
+}
+
+.Linkedln a:hover{
+	color: aqua;
+	transition: all .3s;
+	
+}
+
+.Contacto {
+	left: 1675.5px;
+	top: 327.91px;
+	position: absolute;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	line-height: 37.20000076293945px;
+	margin-top: -3.1000003814697266px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	
+	
+	}
+.Contacto a:hover{
+	color: aqua;
+	transition: all .3s;
+	
+}
+.Grupo_85 {
+	
+	position: absolute;
+	width: 335.845px;
+	height: 87.273px;
+	left: 69.108px;
+	top: 2570.504px;
+	overflow: visible;
+}
+
+
+
+#Grupo_86 {
+	position: absolute;
+	width: 673px;
+	height: 145px;
+	left: 528.216px;
+	top: 259.467px;
+	overflow: visible;
+}
+
+#Grupo_88 {
+	position: absolute;
+	width: 847.332px;
+	height: 510.566px;
+	left: 976.382px;
+	top: 3955.434px;
+	overflow: visible;
+}
+#Grupo_87 {
+	position: absolute;
+	width: 847.332px;
+	height: 510.566px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_90 {
+	position: absolute;
+	width: 848.348px;
+	height: 1389.566px;
+	left: 105.043px;
+	top: 1852.434px;
+	overflow: visible;
+}
+#Grupo_89 {
+	position: absolute;
+	width: 848.348px;
+	height: 1389.566px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_92 {
+	position: absolute;
+	width: 847.332px;
+	height: 685.79px;
+	left: 974.382px;
+	top: 2554.791px;
+	overflow: visible;
+}
+#Grupo_91 {
+	position: absolute;
+	width: 847.332px;
+	height: 685.79px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_94 {
+	position: absolute;
+	width: 847.332px;
+	height: 685.79px;
+	left: 974.755px;
+	top: 1854.982px;
+	overflow: visible;
+}
+#Grupo_93 {
+	position: absolute;
+	width: 847.332px;
+	height: 685.79px;
+	left: 0px;
+
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_96 {
+	position: absolute;
+	width: 847.332px;
+	height: 1067.995px;
+	left: 106.382px;
+	top: 3255.005px;
+	overflow: visible;
+}
+#Grupo_95 {
+	position: absolute;
+	width: 847.332px;
+	height: 1067.995px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectngulo_27 {
+	position: absolute;
+	width: 144.049px;
+	height: 205.07px;
+	left: 870.736px;
+	top: 102.185px;
+	overflow: visible;
+}
+#Rectngulo_28 {
+	position: absolute;
+	width: 76px;
+	height: 77px;
+	left: 1311px;
+	top: 5160px;
+	overflow: visible;
+}
+#Rectngulo_29 {
+	position: absolute;
+	width: 103px;
+	height: 65px;
+	left: 1475px;
+	top: 5166px;
+	overflow: visible;
+}
+#Rectngulo_30 {
+	position: absolute;
+	width: 74px;
+	height: 70px;
+	left: 1638px;
+	top: 5160px;
+	overflow: visible;
+}
+#Rectngulo_31 {
+	position: absolute;
+	width: 76px;
+	height: 159px;
+	left: 922px;
+	top: 5115px;
+	overflow: visible;
+}
+#Rectngulo_32 {
+	position: absolute;
+	width: 65px;
+	height: 119px;
+	left: 1752px;
+	top: 843px;
+	overflow: visible;
+}
+
+#Rectngulo_33 {
+	position: absolute;
+	width: 849.605px;
+	height: 686.489px;
+	left: 104.197px;
+	top: 1146.755px;
+	overflow: visible;
+}
+.Rectngulo_40 {
+	display:none;
+	padding:20px;
+	cursor:pointer;
+	position: fixed;
+	bottom:20px;
+	left:90px;
+}
+
+#Rectngulo_35 {
+	position: absolute;
+	width: 847px;
+	height: 686px;
+	left: 973px;
+	top: 1147px;
+	overflow: visible;
+}
+#Rectngulo_36 {
+	position: absolute;
+	width: 848.489px;
+	height: 686.396px;
+	left: 972.755px;
+	top: 3257.302px;
+	overflow: visible;
+}
+
